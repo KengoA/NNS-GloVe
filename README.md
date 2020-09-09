@@ -1,5 +1,6 @@
 ## Non-Negative Sparse GloVe
-GloVe (Global Vectors for Word Representation) with additional constraints of non-negativity and sparsity
+### GloVe + Non-Negativity + Sparsity
+Interpretable embeddings inpired by Murphy et al. (2012) "Learning Effective and Interpretable Semantic Models using Non-Negative Sparse Embedding" https://www.aclweb.org/anthology/C12-1118.pdf
 
 | nearest neighbors of <br/> <em>frog</em> | Litoria             |  Leptodactylidae | Rana | Eleutherodactylus |
 | --- | ------------------------------- | ------------------- | ---------------- | ------------------- |
