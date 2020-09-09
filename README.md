@@ -1,5 +1,4 @@
-## GloVe: Global Vectors for Word Representation
-
+## Non-Negative Sparse GloVe
 
 | nearest neighbors of <br/> <em>frog</em> | Litoria             |  Leptodactylidae | Rana | Eleutherodactylus |
 | --- | ------------------------------- | ------------------- | ---------------- | ------------------- |
